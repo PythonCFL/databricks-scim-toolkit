@@ -23,3 +23,5 @@ Clona el repositorio y entra en la carpeta:
 ```bash
 git clone https://github.com/PythonCFL/databricks-scim-toolkit.git
 cd databricks-scim-toolkit
+
+![CI](https://github.com/PythonCFL/databricks-scim-toolkit/actions/workflows/ci.yml/badge.svg)
