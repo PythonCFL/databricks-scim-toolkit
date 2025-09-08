@@ -15,7 +15,8 @@ Este proyecto busca simplificar tareas repetitivas de administración mediante f
 - Eliminar usuario de grupo
 - Buscar grupos que contengan un string
 - Anidar grupos (meter un grupo dentro de otro)
-
+- Buscar un SP en los grupos a los que pertenece
+  
 ---
 
 ## 🛠️ Instalación
